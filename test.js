@@ -7,3 +7,4 @@ function getEvenNumber() {
   }
   return result;
 }
+getEvenNumber();
